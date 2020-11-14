@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# config
+config.py
+
 # Initial csv data
 credits.csv
 keywords.csv
